@@ -1,0 +1,6 @@
+{
+  "name": "Patent Wordz",
+  "description": "An application to extract keywords and synonyms from patent text for prior art research using the Gemini API.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
